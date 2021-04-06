@@ -4,6 +4,8 @@ The model considers a sample of the population of four countries (Italy, Germany
 
 ### References
 Staffini A., Svensson A.K., Chung U-I., Svensson T.
+
 An Agent-Based Model of the Local Spread of SARS-CoV-2: Modeling Study
+
 JMIR Medical Informatics 2021;9(4):e24192
 URL: https://medinform.jmir.org/2021/4/e24192
